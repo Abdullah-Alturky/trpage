@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-image:url("https://html.sammy-codes.com/images/background.jpg") ;
+    
+
+}
+
+h1{
+ color:0a9396;
+ opacity: 1;
+font-weight: 200;
+font-size: 50pt;
+}
+a.nodec{
+    text-decoration: none;
+    color: rgb(193, 121, 26);
+
+}
+a.hover{
+    text-decoration: underline;
+    color: ;
+}
+em{
+    color: 14213d;
+    opacity: 0.8;
+}
